@@ -1,2 +1,3 @@
-# cicd-with-cpanel-and-github
-CI/CD with cPanel and Github
+# CI/CD with cPanel and Github
+
+
